@@ -1,6 +1,6 @@
 #  Solucion de la tarea 2  Studio Jam
 
- Calculadora simple, esta calculadora hace las operaciones basicas(no funciona en botn igual)
+ Calculadora simple, esta calculadora hace las operaciones basicas
 
 
 ## Requerimientos
